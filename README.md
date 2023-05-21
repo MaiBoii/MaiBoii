@@ -1,6 +1,4 @@
 # MaiBoii - James Ma
-
-- 🌱 I’m currently learning App Developing, Game Programming, Security.
 ---
 ![MaiBoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiBoii&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiBoii&layout=donut&theme=great-gatsby)
@@ -18,7 +16,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Springboot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=rust&logoColor=white)
 
 
