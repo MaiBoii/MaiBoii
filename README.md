@@ -1,8 +1,5 @@
 # MaiBoii - James Ma
 ---
-![MaiBoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiBoii&show_icons=true&theme=great-gatsby)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiBoii&layout=donut&theme=great-gatsby)
----
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2031%20mins-blue)
 
@@ -16,7 +13,6 @@
 🌃 Evening                39 commits          ███████████░░░░░░░░░░░░░░   45.35 % 
 🌙 Night                  14 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
 ```
-
 
 📊 **This Week I Spent My Time On** 
 
