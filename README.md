@@ -3,6 +3,9 @@
 ![MaiBoii's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaiBoii&show_icons=true&theme=great-gatsby)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiBoii&layout=donut&theme=great-gatsby)
 ---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
 #### Frontend
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3)
