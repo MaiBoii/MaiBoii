@@ -13,15 +13,17 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-339933?style=flat-square&logo=express&logoColor=white)
-![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 
 ### etc
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Bevy-232326?style=flat-square&logo=bevy&logoColor=white)
 
 ---
+### WakaTime
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2040%20mins-blue)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.6%20thousand%20lines%20of%20code-blue)
@@ -58,4 +60,6 @@ Mac                      7 hrs 58 mins       ███████████�
 
  Last Updated on 28/02/2024 17:02:18 UTC
 <!--END_SECTION:waka-->
-
+---
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=msu2020)](https://solved.ac/msu2020)
