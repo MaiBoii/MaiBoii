@@ -20,7 +20,6 @@
 
 
 ### etc
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 ---
 <!--START_SECTION:waka-->
