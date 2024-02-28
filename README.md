@@ -23,6 +23,7 @@
 
 ---
 <!--START_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/f30d78a9-6bdd-48bb-a9ec-91a7ce58fb92.svg)](https://wakatime.com/@f30d78a9-6bdd-48bb-a9ec-91a7ce58fb92)
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.6%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
