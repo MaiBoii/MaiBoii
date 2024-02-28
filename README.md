@@ -25,16 +25,17 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-680%20hrs%2040%20mins-blue)
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-58.6%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-748%20hrs%2018%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-62.3%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-🌆 Daytime                44 commits          ███████░░░░░░░░░░░░░░░░░░   27.33 % 
-🌃 Evening                69 commits          ███████████░░░░░░░░░░░░░░   42.86 % 
-🌙 Night                  30 commits          █████░░░░░░░░░░░░░░░░░░░░   18.63 % 
+🌞 Morning                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+🌆 Daytime                44 commits          ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+🌃 Evening                69 commits          ██████████░░░░░░░░░░░░░░░   41.82 % 
+🌙 Night                  34 commits          █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
 ```
 
 
@@ -58,7 +59,7 @@ Mac                      7 hrs 58 mins       ███████████�
 ```
 
 
- Last Updated on 28/02/2024 17:02:18 UTC
+ Last Updated on 28/02/2024 18:34:58 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
