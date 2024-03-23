@@ -25,7 +25,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-766%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-88.9%20thousand%20lines%20of%20code-blue)
 
@@ -54,17 +54,12 @@ JSON                     3 mins              █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-Silverfox                47 mins             ██████████████████░░░░░░░   70.67 % 
-vue-light-bootstrap-dashb18 mins             ███████░░░░░░░░░░░░░░░░░░   27.61 % 
-material-dashboard-react-1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-
 💻 Operating System: 
 Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/03/2024 18:37:06 UTC
+ Last Updated on 23/03/2024 18:35:09 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
