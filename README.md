@@ -25,7 +25,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-813%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152.1%20thousand%20lines%20of%20code-blue)
 
@@ -54,12 +54,18 @@ Markdown                 6 mins              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  15 hrs 9 mins       █████████████████████████   100.00 % 
 
+🐱‍💻 Projects: 
+캡스톤디자인_의료정보              14 hrs 29 mins      ████████████████████████░   95.67 % 
+chart_test               35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+호작질                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+git-practice             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+
 💻 Operating System: 
 Mac                      15 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/04/2024 18:36:31 UTC
+ Last Updated on 24/04/2024 18:44:51 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
