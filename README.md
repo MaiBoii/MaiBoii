@@ -25,7 +25,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-821%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-823%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -54,19 +54,12 @@ YAML                     32 mins             ██░░░░░░░░░�
 🔥 Editors: 
 VS Code                  7 hrs 42 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-캡스톤디자인_의료정보              3 hrs 25 mins       ███████████░░░░░░░░░░░░░░   44.49 % 
-react-sample             2 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-Silverfox-CWNU_Health_Mon1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-git-practice             32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-typescript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
-
 💻 Operating System: 
 Mac                      7 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2024 18:37:43 UTC
+ Last Updated on 06/05/2024 18:35:59 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
