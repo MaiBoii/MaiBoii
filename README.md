@@ -25,7 +25,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-828%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-831%20hrs%2058%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -54,20 +54,13 @@ HTML                     0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  8 hrs 30 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-rasp                     3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.51 % 
-CWNU-Silverfox-HealthMoni2 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-MyFirstSketch            1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
-Unknown Project          59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Silverfox-CWNU_Health_Mon15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-
 💻 Operating System: 
 Mac                      5 hrs 3 mins        ███████████████░░░░░░░░░░   59.49 % 
 Linux                    3 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.51 % 
 ```
 
 
- Last Updated on 17/05/2024 18:39:25 UTC
+ Last Updated on 18/05/2024 18:35:27 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
