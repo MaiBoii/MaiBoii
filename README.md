@@ -25,7 +25,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2016%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-868%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -54,19 +54,13 @@ CSV                      1 min               ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  2 hrs 38 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-Maiboii                  1 hr 13 mins        ████████████░░░░░░░░░░░░░   46.56 % 
-CWNU-Silverfox-HealthMoni55 mins             █████████░░░░░░░░░░░░░░░░   35.27 % 
-Unknown Project          18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-malware                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-
 💻 Operating System: 
 Mac                      1 hr 42 mins        ████████████████░░░░░░░░░   64.73 % 
 Linux                    55 mins             █████████░░░░░░░░░░░░░░░░   35.27 % 
 ```
 
 
- Last Updated on 19/06/2024 18:40:18 UTC
+ Last Updated on 20/06/2024 18:37:55 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
