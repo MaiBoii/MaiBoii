@@ -25,8 +25,6 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2034%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -50,15 +48,12 @@ Python                   17 mins             ███████████�
 🔥 Editors: 
 VS Code                  17 mins             █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-Hack                     17 mins             █████████████████████████   100.00 % 
-
 💻 Operating System: 
 Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 23/07/2024 18:39:57 UTC
+ Last Updated on 24/07/2024 18:41:18 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
