@@ -25,7 +25,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-873%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-874%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -45,20 +45,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   47 mins             █████████████████████████   100.00 % 
+Python                   29 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  47 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Hack                     47 mins             █████████████████████████   100.00 % 
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      47 mins             █████████████████████████   100.00 % 
+Mac                      29 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/07/2024 18:39:52 UTC
+ Last Updated on 29/07/2024 18:39:01 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
