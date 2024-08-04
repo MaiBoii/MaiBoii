@@ -45,20 +45,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  27 mins             █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Hack                     27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      27 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/08/2024 18:39:36 UTC
+ Last Updated on 04/08/2024 18:37:27 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
