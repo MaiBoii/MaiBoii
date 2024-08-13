@@ -45,20 +45,20 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     16 mins             ███████████████░░░░░░░░░░   59.53 % 
+Text                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Awk                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+VS Code                  27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      27 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/08/2024 18:42:57 UTC
+ Last Updated on 13/08/2024 18:40:26 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
