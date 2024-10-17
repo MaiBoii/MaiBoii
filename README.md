@@ -25,7 +25,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-874%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-875%20hrs%207%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -50,15 +50,12 @@ Markdown                 32 mins             ███████████�
 🔥 Editors: 
 VS Code                  32 mins             █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-멀티미디어                    32 mins             █████████████████████████   100.00 % 
-
 💻 Operating System: 
 Mac                      32 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/10/2024 18:45:08 UTC
+ Last Updated on 17/10/2024 18:43:30 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
