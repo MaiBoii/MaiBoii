@@ -25,7 +25,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-876%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-877%20hrs%202%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -53,17 +53,12 @@ Markdown                 13 mins             ████░░░░░░░�
 IntelliJ IDEA            43 mins             ██████████████░░░░░░░░░░░   55.25 % 
 VS Code                  34 mins             ███████████░░░░░░░░░░░░░░   44.75 % 
 
-🐱‍💻 Projects: 
-Algorithm                34 mins             ███████████░░░░░░░░░░░░░░   44.75 % 
-java-racingcar-7         29 mins             ██████████░░░░░░░░░░░░░░░   38.50 % 
-java-lotto-7             13 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-
 💻 Operating System: 
 Mac                      1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/10/2024 18:45:35 UTC
+ Last Updated on 31/10/2024 18:43:59 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
