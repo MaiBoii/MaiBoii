@@ -25,6 +25,8 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%2035%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -53,12 +55,17 @@ GitIgnore file           0 secs              ░░░░░░░░░░░�
 IntelliJ IDEA            23 hrs 24 mins      ███████████████████████░░   92.57 % 
 VS Code                  1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
 
+🐱‍💻 Projects: 
+java-convenience-store-7 18 hrs 51 mins      ███████████████████░░░░░░   74.61 % 
+java-lotto-7             4 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+Algorithm                1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+
 💻 Operating System: 
 Mac                      25 hrs 16 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/11/2024 18:39:49 UTC
+ Last Updated on 10/11/2024 18:41:24 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
