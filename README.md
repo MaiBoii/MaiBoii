@@ -25,7 +25,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-906%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-910%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.3%20million%20lines%20of%20code-blue)
 
@@ -54,16 +54,12 @@ Shell Script             0 secs              ░░░░░░░░░░░�
 IntelliJ IDEA            20 hrs 59 mins      █████████████████████░░░░   85.18 % 
 VS Code                  3 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
 
-🐱‍💻 Projects: 
-java-convenience-store-7 21 hrs 5 mins       █████████████████████░░░░   85.60 % 
-Algorithm                3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-
 💻 Operating System: 
 Mac                      24 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/11/2024 18:43:25 UTC
+ Last Updated on 12/11/2024 18:42:22 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
