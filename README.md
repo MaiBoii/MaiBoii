@@ -20,7 +20,7 @@
 
 ### etc
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Bevy-232326?style=flat-square&logo=bevy&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Unity-232326?style=flat-square&logo=unity&logoColor=white)
 
 ---
 ### WakaTime
