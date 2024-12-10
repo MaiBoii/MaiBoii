@@ -25,7 +25,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-961%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -54,16 +54,12 @@ XML                      2 mins              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  26 hrs 38 mins      █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-Project 3L               26 hrs 29 mins      █████████████████████████   99.48 % 
-Visual Novel 2023 (Record8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-
 💻 Operating System: 
 Mac                      26 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/12/2024 18:48:40 UTC
+ Last Updated on 10/12/2024 18:47:18 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
