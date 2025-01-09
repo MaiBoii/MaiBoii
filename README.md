@@ -25,6 +25,8 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C006%20hrs%2033%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -53,12 +55,17 @@ JSON                     28 mins             █░░░░░░░░░░�
 VS Code                  8 hrs 52 mins       █████████████████████░░░░   84.43 % 
 Obsidian                 1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
 
+🐱‍💻 Projects: 
+CoffeeGroundsCollectionSy7 hrs 2 mins        █████████████████░░░░░░░░   66.95 % 
+Project 3L               1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
+Unknown Project          1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+
 💻 Operating System: 
 Mac                      10 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 09/01/2025 18:44:37 UTC
+ Last Updated on 09/01/2025 18:46:03 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
