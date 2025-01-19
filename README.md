@@ -7,6 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-02569B?style=flat-square&logo=typescript&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Svelte](https://img.shields.io/badge/-Svelte-E34F26?style=flat-square&logo=svelte&logoColor=white)
 
 
 #### Backend
