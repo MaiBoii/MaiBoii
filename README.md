@@ -26,7 +26,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C046%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C048%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -54,16 +54,12 @@ JavaScript               0 secs              ░░░░░░░░░░░�
 Obsidian                 1 hr 31 mins        ███████████████░░░░░░░░░░   61.79 % 
 VS Code                  56 mins             ██████████░░░░░░░░░░░░░░░   38.21 % 
 
-🐱‍💻 Projects: 
-Unknown Project          1 hr 31 mins        ███████████████░░░░░░░░░░   61.79 % 
-CoffeeGroundsCollectionSy56 mins             ██████████░░░░░░░░░░░░░░░   38.21 % 
-
 💻 Operating System: 
 Mac                      2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/02/2025 18:43:27 UTC
+ Last Updated on 11/02/2025 18:42:39 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
