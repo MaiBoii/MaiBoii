@@ -26,7 +26,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -55,17 +55,12 @@ JSON                     0 secs              ░░░░░░░░░░░�
 VS Code                  50 mins             █████████████████████████   98.59 % 
 Obsidian                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
-🐱‍💻 Projects: 
-HongIK_Wheel_AVR         35 mins             ██████████████████░░░░░░░   70.26 % 
-CoffeeGroundsCollectionSy14 mins             ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-
 💻 Operating System: 
 Mac                      50 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/03/2025 18:47:37 UTC
+ Last Updated on 12/03/2025 18:46:01 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
