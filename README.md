@@ -26,8 +26,6 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%206%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -46,20 +44,21 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               14 mins             ████████████░░░░░░░░░░░░░   47.84 % 
+JavaScript               14 mins             ████████████░░░░░░░░░░░░░   46.48 % 
+CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+VS Code                  30 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/03/2025 18:47:55 UTC
+ Last Updated on 27/03/2025 18:45:54 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
