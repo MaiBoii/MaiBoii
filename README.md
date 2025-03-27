@@ -26,6 +26,8 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2037%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -53,12 +55,17 @@ TSConfig                 0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  30 mins             █████████████████████████   100.00 % 
 
+🐱‍💻 Projects: 
+TS                       15 mins             █████████████░░░░░░░░░░░░   52.24 % 
+next-sample              8 mins              ███████░░░░░░░░░░░░░░░░░░   28.16 % 
+my-nest-app              5 mins              █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+
 💻 Operating System: 
 Mac                      30 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/03/2025 18:45:54 UTC
+ Last Updated on 27/03/2025 18:47:43 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
