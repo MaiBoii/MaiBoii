@@ -26,7 +26,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2059%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
@@ -52,15 +52,12 @@ C                        7 mins              █████████░░�
 🔥 Editors: 
 VS Code                  22 mins             █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-정처기                      22 mins             █████████████████████████   100.00 % 
-
 💻 Operating System: 
 Mac                      22 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/04/2025 18:47:39 UTC
+ Last Updated on 04/04/2025 18:45:14 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
