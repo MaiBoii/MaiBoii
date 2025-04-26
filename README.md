@@ -31,7 +31,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C066%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C067%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
 
@@ -60,19 +60,12 @@ JavaScript               25 mins             █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  7 hrs 4 mins        █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-ShortCut                 4 hrs 5 mins        ██████████████░░░░░░░░░░░   57.83 % 
-myblog                   2 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   33.67 % 
-hugo-noir                24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-public                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-hugo-book                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-
 💻 Operating System: 
 Mac                      7 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/04/2025 18:47:56 UTC
+ Last Updated on 26/04/2025 18:43:08 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
