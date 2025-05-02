@@ -44,6 +44,8 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C079%20hrs%2034%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -71,12 +73,17 @@ CSS                      9 mins              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  11 hrs 57 mins      █████████████████████████   100.00 % 
 
+🐱‍💻 Projects: 
+myblog                   8 hrs 25 mins       ██████████████████░░░░░░░   70.44 % 
+ShortCut                 3 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+PaperMod                 29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+
 💻 Operating System: 
 Mac                      11 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/05/2025 18:46:41 UTC
+ Last Updated on 02/05/2025 18:48:11 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
