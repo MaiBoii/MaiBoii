@@ -64,20 +64,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-myblog                   0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 10/05/2025 18:45:03 UTC
+ Last Updated on 11/05/2025 18:44:08 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
