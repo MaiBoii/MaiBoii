@@ -44,7 +44,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C081%20hrs%205%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
 
@@ -69,15 +69,12 @@ Vue.js                   40 mins             ███████████�
 🔥 Editors: 
 VS Code                  40 mins             █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-ShortCut                 40 mins             █████████████████████████   100.00 % 
-
 💻 Operating System: 
 Mac                      40 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2025 18:50:03 UTC
+ Last Updated on 31/05/2025 18:45:28 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
