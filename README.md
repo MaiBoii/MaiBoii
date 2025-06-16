@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-Redis-FF4438?style=flat-square&logo=redis&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/-Svelte-E34F26?style=flat-square&logo=svelte&logoColor=white" /> &nbsp
   <br>
-  <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> &nbsp
+  <img src="https://img.shields.io/badge/-Vue3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" /> &nbsp
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" /> &nbsp
  
 </p>
