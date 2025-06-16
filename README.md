@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" /> &nbsp
  <img src="https://img.shields.io/badge/SQL-4053D6?style=flat-square&logo=AmazonDynamoDB&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" /> &nbsp
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3" /> &nbsp
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css" /> &nbsp
     <br>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> &nbsp
   <img src="https://img.shields.io/badge/-TypeScript-02569B?style=flat-square&logo=typescript&logoColor=white" /> &nbsp
