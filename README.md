@@ -44,7 +44,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -72,18 +72,13 @@ Git Config               0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  7 hrs 45 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-HackSomething            4 hrs 43 mins       ███████████████░░░░░░░░░░   60.89 % 
-ma                       2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
-Ethical_Hack             39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-
 💻 Operating System: 
 Mac                      5 hrs 22 mins       █████████████████░░░░░░░░   69.29 % 
 Windows                  2 hrs 22 mins       ████████░░░░░░░░░░░░░░░░░   30.71 % 
 ```
 
 
- Last Updated on 02/07/2025 18:51:46 UTC
+ Last Updated on 03/07/2025 18:49:36 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
