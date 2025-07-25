@@ -44,7 +44,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -71,15 +71,12 @@ Other                    0 secs              ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  7 hrs 6 mins        █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-Goorm_Security           7 hrs 6 mins        █████████████████████████   100.00 % 
-
 💻 Operating System: 
 Mac                      7 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2025 18:55:14 UTC
+ Last Updated on 25/07/2025 18:53:33 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
