@@ -44,10 +44,40 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%2051%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
+**I'm an Early 🐤** 
 
- Last Updated on 30/07/2025 18:54:50 UTC
+```text
+🌞 Morning                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+🌆 Daytime                275 commits         ██████████░░░░░░░░░░░░░░░   39.74 % 
+🌃 Evening                251 commits         █████████░░░░░░░░░░░░░░░░   36.27 % 
+🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+Markdown                 8 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  8 mins              █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+Goorm_Security           8 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      8 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/07/2025 18:56:05 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
