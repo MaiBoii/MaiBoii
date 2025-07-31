@@ -64,20 +64,17 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Markdown                 8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  8 mins              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-Goorm_Security           8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      8 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 30/07/2025 18:56:05 UTC
+ Last Updated on 31/07/2025 18:54:54 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
