@@ -44,7 +44,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C119%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -70,17 +70,13 @@ Python                   2 mins              ███░░░░░░░░�
 🔥 Editors: 
 VS Code                  22 mins             █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-htdocs                   20 mins             ██████████████████████░░░   89.71 % 
-ma                       2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-
 💻 Operating System: 
 Mac                      20 mins             ██████████████████████░░░   89.71 % 
 Windows                  2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 ```
 
 
- Last Updated on 11/08/2025 18:55:15 UTC
+ Last Updated on 12/08/2025 18:52:38 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
