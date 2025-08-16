@@ -44,7 +44,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C120%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2016%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -69,15 +69,12 @@ PHP                      1 hr 22 mins        ███████████�
 🔥 Editors: 
 VS Code                  1 hr 22 mins        █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-htdocs                   1 hr 22 mins        █████████████████████████   100.00 % 
-
 💻 Operating System: 
 Mac                      1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/08/2025 18:52:14 UTC
+ Last Updated on 16/08/2025 18:47:10 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
