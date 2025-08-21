@@ -44,7 +44,7 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C124%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
@@ -73,19 +73,12 @@ JSON                     8 mins              █░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  4 hrs 38 mins       █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-htdocs                   2 hrs 45 mins       ███████████████░░░░░░░░░░   59.28 % 
-Ethical_Hack             46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Py_Calculator            37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-docker_shopping          24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-MAMP                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-
 💻 Operating System: 
 Mac                      4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/08/2025 18:51:00 UTC
+ Last Updated on 21/08/2025 18:48:01 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
