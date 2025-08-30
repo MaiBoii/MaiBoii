@@ -44,6 +44,8 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C127%20hrs%2042%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -71,12 +73,18 @@ Assembly                 1 min               ░░░░░░░░░░░�
 🔥 Editors: 
 VS Code                  2 hrs 37 mins       █████████████████████████   100.00 % 
 
+🐱‍💻 Projects: 
+homebrew                 1 hr 35 mins        ███████████████░░░░░░░░░░   60.45 % 
+Ethical_Hack             42 mins             ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+Unknown Project          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
+6ca11401-aa68-423c-a329-a0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
 💻 Operating System: 
 Mac                      2 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/08/2025 18:43:44 UTC
+ Last Updated on 30/08/2025 18:45:32 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
