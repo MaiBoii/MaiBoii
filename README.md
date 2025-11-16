@@ -44,8 +44,6 @@
 ---
 ### WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C128%20hrs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.0%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -69,15 +67,12 @@ Python                   2 mins              ███████████�
 🔥 Editors: 
 VS Code                  2 mins              █████████████████████████   100.00 % 
 
-🐱‍💻 Projects: 
-ma                       2 mins              █████████████████████████   100.00 % 
-
 💻 Operating System: 
 Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/11/2025 18:46:25 UTC
+ Last Updated on 16/11/2025 18:45:33 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
