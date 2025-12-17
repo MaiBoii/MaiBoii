@@ -64,20 +64,19 @@
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    44 mins             ███████████████████░░░░░░   77.10 % 
+JavaScript               12 mins             ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+VS Code                  57 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  57 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 16/12/2025 18:55:35 UTC
+ Last Updated on 17/12/2025 18:54:52 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
