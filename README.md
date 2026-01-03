@@ -46,36 +46,8 @@
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.04%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                100 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-🌆 Daytime                275 commits         ██████████░░░░░░░░░░░░░░░   39.74 % 
-🌃 Evening                251 commits         █████████░░░░░░░░░░░░░░░░   36.27 % 
-🌙 Night                  66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Seoul
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 02/01/2026 18:52:57 UTC
+ Last Updated on 03/01/2026 18:50:10 UTC
 <!--END_SECTION:waka-->
 ---
 [![Solved.ac
